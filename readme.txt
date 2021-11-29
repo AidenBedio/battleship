@@ -1,0 +1,1 @@
+A clone of the classic game battleship. A fun practice exercise for web development using only the basic html, css ,js.
